@@ -1,5 +1,5 @@
 class Character {
-    Posion myPosion;
+    Posion myPosion = new Posion();
     Weapon myWeapon;
 
     Character() {
